@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b299fc42-7a6a-43a5-a483-ab478166af72" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-menu/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-menu/src/main/java/top/zhf/java/gui/app.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-test/src/main/java/top/zhf/java/basic/compare/comparetools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-test/src/main/java/top/zhf/java/basic/temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b299fc42-7a6a-43a5-a483-ab478166af72" name="变更" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,8 +178,16 @@
       <workItem from="1668503130438" duration="2626000" />
       <workItem from="1668517969232" duration="1752000" />
       <workItem from="1668519733052" duration="5486000" />
-      <workItem from="1668525233055" duration="354000" />
+      <workItem from="1668525233055" duration="663000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1668525667139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668525667139</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +203,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
