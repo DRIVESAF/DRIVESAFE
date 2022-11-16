@@ -2,7 +2,7 @@ package top.zhf.java.gui.skip;
 
 import java.util.Scanner;
 
-    public class enter {
+    public class all_interface {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             System.out.println("欢迎使用购物系统：\n1.登陆系统\n2.退出\n*********************\n请输入选择数字：");
