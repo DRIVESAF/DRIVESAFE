@@ -1,0 +1,11 @@
+@import '//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css';
+
+/* 图标默认样式 */
+.fa {
+    display: inline-block;
+    text-align: center;
+    width: 1.5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
